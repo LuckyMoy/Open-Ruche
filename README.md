@@ -263,4 +263,4 @@ Ce projet est le fruit d’un travail collaboratif réalisé par les étudiants 
 ## Contact
 
 Pour toute information complémentaire ou question, vous pouvez nous contacter à l’adresse suivante :  
-📧 *(ajouter votre adresse email ici si besoin)*
+ugolucchi2@gmail.com
